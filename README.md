@@ -1,0 +1,1 @@
+# Climatic-Data-Based-Binary-Classification-Model-for-Rain-Prediction
